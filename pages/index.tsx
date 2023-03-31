@@ -597,7 +597,7 @@ Once again, thank you for choosing our platform. We look forward to working with
       <div className='mb-4'>
         <div className='text-2xl font-bold text-center text-cyan-900'>Success</div>
         <div className='mt-2 text-base leading-6 text-gray-500'>
-                          <p className='text-center text-lg font-semibold text-cyan-800'>Thank you for submitting your questionnaire! Please click the green button below to finish your Discord Verification process via the Token of Trust platform, and please also check/monitor the email you provided
+                          <p className='text-center text-lg font-semibold text-cyan-800'>Thank you for submitting your questionnaire! Please click the green button to join the discord, and please also check/monitor the email you provided
                             in the form for any additional information that may
                             come in the next few days/weeks.</p>
         </div>
