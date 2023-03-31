@@ -198,7 +198,7 @@ setOwnedNFTNames(ownedNFTNamesFiltered);
      <ConnectWallet />  {hasClaimedNFT ? (
   <main className='relative mt-4 px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20 bg-clip-padding bg-opacity-60 border border-gray-200' >
    <div>
-          <img src="https://wolfer.finance/wp-content/uploads/2022/04/Logo-1.jpg" className="h-16 sm:h-24 rounded-md mx-auto" />
+          <img src="https://metainvoker.com/wp-content/uploads/2022/09/invoker-logo-1.png" className="h-16 sm:h-24 rounded-md mx-auto" />
         </div>   <div className='max-w-5xl mx-auto py-2'>
         <form className='py-4 space-y-4' onSubmit={handleSubmit}>
           <div className='flex items-center justify-center'>
